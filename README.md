@@ -305,8 +305,6 @@ jupyter notebook FraudDetection_SupervisedLearning.ipynb
 **Om Vaja** — BCA student, Vidhyadeep University, Surat, India
 Data analytics freelancer | Power BI · Excel · SQL · Python
 
-🔗 GitHub: [@your-username](https://github.com/your-username) · LinkedIn: [your-profile](https://www.linkedin.com/in/your-profile)
-
 ---
 
 ⭐ If this project helped you, consider giving the repo a star!
