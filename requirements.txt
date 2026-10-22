@@ -1,0 +1,24 @@
+# Credit Card Fraud Detection - Imbalanced Classification with Threshold Optimisation
+# Install with:  pip install -r requirements.txt
+#
+# Notebook tested with: Python 3.12, numpy 2.4, pandas 3.0, matplotlib 3.10, seaborn 0.13,
+#                       scikit-learn 1.8, xgboost 3.4, imbalanced-learn 0.14, joblib 1.5
+
+# Data handling
+numpy>=1.24
+pandas>=2.0
+
+# Visualisation
+matplotlib>=3.7
+seaborn>=0.13
+
+# Machine learning
+scikit-learn>=1.3
+xgboost>=2.0
+imbalanced-learn>=0.12
+joblib>=1.3
+
+# Notebook execution (pandas Styler tables need jinja2)
+jupyter
+ipykernel
+jinja2>=3.1
