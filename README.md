@@ -14,7 +14,7 @@
 ## 🎥 Video Walkthrough
 
 📹 **Recorded explanation (face + screen, notebook and `.pkl` demo):**
-**[▶ Watch the video here](PASTE_GOOGLE_DRIVE_VIDEO_LINK_HERE)**
+**[▶ Watch the video here]https://drive.google.com/file/d/1Ezk42vuzbhEoQyKs8iQri9TWggDkA_wC/view?usp=sharing**
 
 ---
 
