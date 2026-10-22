@@ -18,23 +18,6 @@
 
 ---
 
-## 📌 Table of Contents
-
-0. [Video Walkthrough](#-video-walkthrough)
-1. [Project Overview](#-project-overview)
-2. [Dataset](#-dataset)
-3. [Key Results](#-key-results)
-4. [Repository Structure](#-repository-structure)
-5. [Methodology & Visuals](#-methodology--visuals)
-6. [Optimal Threshold Used](#-optimal-threshold-used)
-7. [Business Cost-Benefit Analysis](#-business-cost-benefit-analysis)
-8. [Using the Saved Pipeline](#-using-the-saved-pipeline)
-9. [How to Run](#-how-to-run)
-10. [Limitations & Next Steps](#-limitations--next-steps)
-11. [Author](#-author)
-
----
-
 ## 🎯 Project Overview
 
 Millions of transactions flow through a digital payments platform every day and a tiny fraction are fraudulent. Missing even a few fraud cases costs lakhs of rupees and damages customer trust. This project:
